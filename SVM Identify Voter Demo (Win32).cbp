@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SVM Identify Voter Demo (Win32)" />
+		<Option pch_mode="2" />
+		<Option compiler="tcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin/Release/SVM Identify Voter Demo (Win32).exe" prefix_auto="0" extension_auto="0" />
+				<Option working_dir="bin/Release" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="tcc" />
+				<Compiler>
+					<Add option="-Wall" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Unit filename="src/driver_identify.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/serial_win.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/serial_win.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

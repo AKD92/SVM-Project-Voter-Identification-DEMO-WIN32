@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1469412228 source:g:\ashish files\documents\dev c++ project files\svm demo identify voter (win32)\src\serial_win.c
+	<stdio.h>
+	<windows.h>
+
+1469413297 source:g:\ashish files\documents\dev c++ project files\svm demo identify voter (win32)\src\driver_identify.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"serial_win.h"
+
+1469371144 g:\ashish files\documents\dev c++ project files\svm demo identify voter (win32)\src\serial_win.h
+
+1469414921 source:g:\ashish files\documents\dev c++ project files\svm identify voter demo (win32)\src\driver_identify.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"serial_win.h"
+
+1469371144 g:\ashish files\documents\dev c++ project files\svm identify voter demo (win32)\src\serial_win.h
+
+1469412228 source:g:\ashish files\documents\dev c++ project files\svm identify voter demo (win32)\src\serial_win.c
+	<stdio.h>
+	<windows.h>
+
